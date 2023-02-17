@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "engage-wp-client-side-solution",
+    "id": "39d29950-98bd-495e-9646-29f919b73197",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "engage-wp description"
+      },
+      "longDescription": {
+        "default": "engage-wp description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "engage-wp Feature",
+        "description": "The feature that activates elements of the engage-wp solution.",
+        "id": "b2dbbef7-bb0f-4740-94ac-5c900fed0ec8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/engage-wp.sppkg"
+  }
+}

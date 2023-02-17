@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "viva-engage-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/vivaEngage/VivaEngageWebPart.js",
+          "manifest": "./src/webparts/vivaEngage/VivaEngageWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "VivaEngageWebPartStrings": "lib/webparts/vivaEngage/loc/{locale}.js"
+  }
+}
