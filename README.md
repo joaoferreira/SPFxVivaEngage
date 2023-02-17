@@ -2,7 +2,7 @@
 
 ## Summary
 
- This is a sample example from where you will be able to connect to Viva Engage using SPFx and retrieve the latest updates for the current user.
+ This is an example from where you will be able to connect to Viva Engage using SPFx and retrieve the latest updates for the current user.
 
 ![SharePoint and Viva Engage](https://handsontek.net/images/SharePoint/VivaEngage/animation.gif)
 
